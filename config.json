@@ -10,6 +10,8 @@
   "ingress_port": 3000,
   "webui": "http://[HOST]:[PORT]",
   "panel_icon": "mdi:home-city",
+  "options": {},
+  "schema": {},
   "ports": {
     "3000/tcp": 3000
   }
