@@ -1,0 +1,16 @@
+{
+  "name": "My UI Dashboard",
+  "version": "0.1.0",
+  "slug": "my_ui_dashboard",
+  "description": "Una UI con drag & drop come ha-fusion",
+  "arch": ["amd64", "aarch64"],
+  "startup": "services",
+  "boot": "auto",
+  "ingress": true,
+  "ingress_port": 3000,
+  "webui": "http://[HOST]:[PORT]",
+  "panel_icon": "mdi:monitor-dashboard",
+  "ports": {
+    "3000/tcp": 3000
+  }
+}
