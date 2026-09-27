@@ -1,6 +1,6 @@
 {
   "name": "Casa Mia UI",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "slug": "casa_mia_ui",
   "description": "Interfaccia Home Assistant con drag & drop personalizzata",
   "arch": [
